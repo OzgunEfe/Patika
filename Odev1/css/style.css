@@ -1,0 +1,44 @@
+.tumyapi{
+    margin: auto;
+    display: table;
+}
+
+.hakkimizda{
+    margin: auto;
+    text-align: center;
+}
+
+.anasayfa{
+    margin: auto;
+    display: table;
+}
+
+.liste{
+    text-align: center;
+}
+
+h1{
+    color: crimson;
+    margin: auto;
+	display: table;
+}
+
+h2{
+    color: purple;
+    margin: auto;
+	display: table;
+}
+
+h3{
+    color: goldenrod;
+}
+
+.menu{
+    list-style: none;
+    display: inline;
+    margin: auto;
+    padding: 5px;
+    text-align: center;
+}
+
+
