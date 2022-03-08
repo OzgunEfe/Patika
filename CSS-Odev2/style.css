@@ -1,0 +1,82 @@
+body li{
+list-style: none;
+}
+
+.logo{
+    margin: auto;
+    display: table;
+}
+
+.search{
+    background-color: #eee;
+    margin: auto;
+    display: block;
+    width: 90%;
+    text-align: center;
+    height: 80px;
+    padding-top: 5px;
+}
+
+.search p{
+    margin: 0px;
+}
+
+.searchBar input{
+    width: 35%;
+}
+
+.specialSearches{
+    margin: auto;
+    display: block;
+    background-color: rgb(126, 229, 218);
+    float: left;
+    width: 35%;
+    text-align: center;
+    height: 80px;
+    margin-left: 5%;
+    padding-top: 10px;
+    font-size: 14px;
+}
+
+.help{
+    margin: auto;
+    display: block;
+    background-color: rgb(126, 229, 218);
+    float: left;
+    width: 20%;
+    text-align: center;
+    height: 90px;
+    font-size: 14px;
+}
+
+.help ul a{
+    margin: 0px;
+    padding-top: 0px;
+}
+
+.getGoogle{
+    margin: auto;
+    display: block;
+    background-color: rgb(126, 229, 218);
+    float: left;
+    width: 35%;
+    text-align: center;
+    height: 80px;
+    padding-top: 10px;
+    font-size: 14px;
+}
+
+.getGoogle p{
+    padding-top 0px;
+    margin: 0px;
+}
+
+.footer{
+    margin: auto;
+    display: inline-block;
+    padding-top: 20px;
+    padding-left: 42%;
+    padding-right: 42%;
+    text-align: center;
+    font-size: 12px;
+}
