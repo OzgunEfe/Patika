@@ -1,0 +1,78 @@
+body{
+    background-color: #E9ECEF;
+}
+
+.jumbotron .container{
+    background-color: #E9ECEF;
+}
+
+
+.header{
+    background-color: rgba(57, 57, 77, 1);
+    height: 50px;
+    padding-top: 12px;
+}
+
+.header ul{
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+.header li{
+    list-style: none;
+    display: inline;
+    padding-left: 25px;
+    margin: auto;
+    color: white;
+    text-align: center;
+}
+
+#muzik{
+    color: rgb(173, 43, 54);
+}
+
+#merhaba{
+    color: crimson;
+    font-weight: 300;
+}
+
+.baslik{
+    color: purple;
+    font-weight: 300;
+}
+
+.hakkimizda h3{
+    text-align: left;
+    font-size: 18px;
+}
+
+.hakkimizda{
+    font-size: 14px;
+}
+
+.container li{
+    list-style-position: inside;
+    text-align: center;
+}
+
+.container h3{
+    color: goldenrod;
+}
+
+h1, h3{
+    text-align: center;
+}
+
+.butonana{
+    text-align: center;
+    margin: auto;
+    display: table;
+}
+
+.urunler .card{
+    margin-bottom: 10px;
+}
+
+.urunler .card-img-top{
+    padding: 8px;
+}
