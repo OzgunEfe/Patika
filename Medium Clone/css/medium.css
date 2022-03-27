@@ -1,0 +1,56 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+
+.bg-color{
+    background-color: rgb(196, 226, 255);
+}
+
+.border-bottom-dark{
+    border-bottom: 1px solid rgb(41, 41, 41);
+}
+
+#MediumText{
+    font-size: xx-large;
+}
+
+#trendIcon img{
+    height: 30px;
+    width: 30px;
+    display: inline;
+    float: left;
+}
+
+#trendIcon h6{
+    margin-top: 5px;
+}
+
+#starIcon{
+    margin-bottom: 3.5px;
+    opacity: 50%;
+}
+
+.light{
+    opacity: 70%;
+}
+
+#discoverLi li a{
+    text-decoration: none;
+    color: black;
+    opacity: 80%;
+    font-size: 15px;
+}
+
+.discoverButton{
+    border-radius: 15px;
+    background-color: rgb(242, 242, 242);
+    border-color: rgb(242, 242, 242);
+    font-weight: lighter;
+    margin-top: 5px;
+}
+
+.discoverButton:hover{
+    border-radius: 15px;
+    background-color: rgb(214, 213, 213);
+    border-color: rgb(242, 242, 242);
+}
